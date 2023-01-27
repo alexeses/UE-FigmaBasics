@@ -3,13 +3,13 @@
   "version": 32,
   "source-key": {
     "type": "figma",
-    "file": "Mf433IKn2llhBdqApNM3VN",
+    "file": "sx4TfiEyTaYBl9iHQnKeAM",
     "node": "4:2",
-    "version": "2920296221",
-    "component-id": "50103b3512d9e04eb842662f90820638ce44a93e"
+    "version": "2927634036",
+    "component-id": "770a7ccdbdf9e02f4bdd8853a89c56f3fe104567"
   },
   "default": "Hello Card",
-  "documentation": "Mi primer diseño en Figma para Android con Relay",
+  "documentation": "Activity for UI Android, Alex G",
   "design": {
     "atoms": [
       {
